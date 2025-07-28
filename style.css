@@ -1,0 +1,17 @@
+#budget,legend,#div {
+    margin:  auto;
+    color: tomato;
+    text-align: center;
+}
+body {
+    background-image: url(https://www.pix-star.com/blog/wp-content/uploads/2021/05/digital-photo-frames.jpg);
+    background-size: cover;
+
+}
+.budget {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    width: 80%;
+}
